@@ -1,7 +1,12 @@
 h1 {
 text-align: center;
+color: #A89331;
 }
 
 p {
   text-align: justify;
+}
+
+strong {
+  color: #A89331;
 }
